@@ -1,0 +1,9 @@
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.Cache
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\joelr_000\MTSU\CSCI_3037\CSCI_3037_OLA2_Match_O_Tron\MemoryGame\obj\Debug\MemoryGame.pdb
